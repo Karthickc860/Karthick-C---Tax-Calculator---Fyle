@@ -1,0 +1,33 @@
+#container{
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    /* color: white; */
+    background-color: white;
+    margin-top: 150px;
+    height: 400px;
+}
+
+form input{
+    width: 100%;
+    font-size: 17px;
+}
+
+form #Age{
+    width: 100%;
+}
+
+form{
+    font-size: 18px;
+    padding: auto;
+    margin: 10px;
+}
+
+form div{
+    margin: 15px;
+}
+
+form button{
+    width: 100%;
+    background-color: blue;
+}
